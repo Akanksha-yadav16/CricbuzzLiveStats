@@ -17,9 +17,9 @@ st.markdown("""
 Welcome to **Cricbuzz LiveStats** – a cricket analytics dashboard powered by  
 **Streamlit, SQL, and Cricbuzz API**.
 
-👉 Use the sidebar to navigate between pages:
-- 📊 Live Matches  
-- 🏅 Player Statistics  
-- 🔍 SQL Analytics  
-- 🛠 CRUD Operations  
+ Use the sidebar to navigate between pages:
+- Live Matches  
+- Player Statistics  
+- SQL Analytics  
+- CRUD Operations  
 """)
